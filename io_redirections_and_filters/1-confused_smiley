@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "\"(Ôo)\x27"
+printf "%s
+" "(Ôo)'"
